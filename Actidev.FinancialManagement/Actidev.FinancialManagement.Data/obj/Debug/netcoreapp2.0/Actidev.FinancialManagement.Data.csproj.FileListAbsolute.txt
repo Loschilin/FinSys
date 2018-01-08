@@ -1,0 +1,9 @@
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.deps.json
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.dll
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.pdb
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.csprojResolveAssemblyReference.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.csproj.CoreCompileInputs.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.AssemblyInfoInputs.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.AssemblyInfo.cs
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.dll
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Data\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.pdb

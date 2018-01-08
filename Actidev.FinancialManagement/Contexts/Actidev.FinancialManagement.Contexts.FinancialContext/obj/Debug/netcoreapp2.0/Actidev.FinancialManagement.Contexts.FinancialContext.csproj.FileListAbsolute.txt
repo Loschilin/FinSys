@@ -1,0 +1,11 @@
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.deps.json
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.dll
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.pdb
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.csprojResolveAssemblyReference.cache
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.csproj.CoreCompileInputs.cache
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.AssemblyInfoInputs.cache
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.AssemblyInfo.cs
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.dll
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.FinancialContext.pdb
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.dll
+E:\projects\Actidev.FinancialManagement\Contexts\Actidev.FinancialManagement.Contexts.FinancialContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Data.pdb

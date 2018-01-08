@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  actidev.financialmanagement.api:
+    image: actidev.financialmanagement.api
+    build:
+      context: .
+      dockerfile: Actidev.FinancialManagement.Api\Dockerfile

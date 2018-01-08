@@ -1,0 +1,9 @@
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.deps.json
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.dll
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\bin\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.pdb
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.csprojResolveAssemblyReference.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.csproj.CoreCompileInputs.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.AssemblyInfoInputs.cache
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.AssemblyInfo.cs
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.dll
+E:\projects\Actidev.FinancialManagement\Actidev.FinancialManagement.Contexts.ReportsContext\obj\Debug\netcoreapp2.0\Actidev.FinancialManagement.Contexts.ReportsContext.pdb
